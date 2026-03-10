@@ -1,4 +1,4 @@
-# Task 7 – Vulnerability Scanning with Nikto
+# Task – Vulnerability Scanning with Nikto
 
 ## Objective
 The objective of this task is to perform vulnerability scanning on a web server using the Nikto tool and identify possible security issues.
